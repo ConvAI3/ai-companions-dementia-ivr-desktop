@@ -54,9 +54,11 @@ This repository accompanies the dissertation for two purposes:
 | File | Description |
 |------|-------------|
 | `Dataanalysis_AI_Companions_Dementia_IVR_Desktop.Rmd` | The R Markdown source that produces the report. |
-| `index.html` | The rendered analysis report. Open in a browser or view via [GitHub Pages](https://convai3.github.io/ai-companions-dementia-ivr-desktop/). |
 | `LICENSE` | Terms of use for the code in this repository. |
 | `README.md` | This file. |
+
+The rendered HTML output is hosted via GitHub Pages at
+https://convai3.github.io/ai-companions-dementia-ivr-desktop/.
 
 The dataset `kiera_study_data.csv` is intentionally absent (see *Data
 availability*).
@@ -81,5 +83,4 @@ Please cite the pre-registration when referring to this work:
 This repository is the **analysis component** of the dissertation. The full
 thesis, including the title page, bilingual abstract, introduction, literature
 review, methods and ethics, discussion, conclusion, and APA 7 references, is a
-separate document into which these results, tables, and figures are imported.conclusion, and APA 7 references, is a
 separate document into which these results, tables, and figures are imported.

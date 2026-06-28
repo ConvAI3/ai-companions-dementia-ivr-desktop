@@ -1,12 +1,14 @@
-# AI Companions for Dementia Care: Immersive VR versus Desktop
+# To Be Immersed or Not to Be: AI Companions for Dementia Care
 
 A pre-registered, within-subjects study comparing two delivery modalities for an
-AI companion, immersive virtual reality (VR) and desktop, on four outcomes:
+AI companion, immersive virtual reality (IVR) and desktop, on four outcomes:
 social presence, engagement, attitudes toward AI, and usability. This repository
 holds the analysis code and the rendered statistical report that accompany the
 master's dissertation.
 
 **Pre-registration:** https://osf.io/65k7s
+
+**Rendered report:** https://convai3.github.io/ai-companions-dementia-ivr-desktop/
 
 ---
 
@@ -21,9 +23,10 @@ team and are not published here.
 
 This does not limit what you can read:
 
-- The report is distributed as a **pre-rendered file**. All statistics, tables,
-  and figures were computed at the time of knitting and are embedded in the
-  output, so the complete results are available without the dataset.
+- The report is distributed as a **pre-rendered file** and is also hosted via
+  GitHub Pages at the link above. All statistics, tables, and figures were
+  computed at the time of knitting and are embedded in the output, so the
+  complete results are available without the dataset.
 - The **analysis code is provided in full**, so every step of the pipeline can
   be inspected. Re-execution from raw data requires access to the private
   dataset.
@@ -50,8 +53,8 @@ This repository accompanies the dissertation for two purposes:
 
 | File | Description |
 |------|-------------|
-| `index.html` | The rendered analysis report. Open in a browser to read the full results. |
-| `SubmissionReady_analysis_report_.Rmd` | The R Markdown source that produces the report. |
+| `Dataanalysis_AI_Companions_Dementia_IVR_Desktop.Rmd` | The R Markdown source that produces the report. |
+| `index.html` | The rendered analysis report. Open in a browser or view via [GitHub Pages](https://convai3.github.io/ai-companions-dementia-ivr-desktop/). |
 | `LICENSE` | Terms of use for the code in this repository. |
 | `README.md` | This file. |
 
@@ -78,4 +81,5 @@ Please cite the pre-registration when referring to this work:
 This repository is the **analysis component** of the dissertation. The full
 thesis, including the title page, bilingual abstract, introduction, literature
 review, methods and ethics, discussion, conclusion, and APA 7 references, is a
+separate document into which these results, tables, and figures are imported.conclusion, and APA 7 references, is a
 separate document into which these results, tables, and figures are imported.
